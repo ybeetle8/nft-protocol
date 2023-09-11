@@ -47,3 +47,7 @@ If you are running on Linux you can use [suivm](https://github.com/Origin-Byte/s
 1. `$ sui move build` to build the available move modules
 2. `$ sui move test` to run the move tests
 3. `./bin/publish.sh` to publish the modules on localnet or devnet
+
+
+test
+
